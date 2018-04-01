@@ -1,0 +1,6 @@
+s = new scramble
+i = inspection on/off
+ESC = exit
+Delete = delete time
+Space = start inpsection/start time/stop time
+Literally any key will stop the timer so missing the space bar won't ruin your time.
